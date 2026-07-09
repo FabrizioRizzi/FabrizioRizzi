@@ -24,7 +24,7 @@
     <img width="64" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"/>
   </a>
   <a href="">
-    <img width="64" src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci80YWI1YjNjOTg2MmZjOTFlNTFlMmU2ZjY5YTY2ZTk5Mz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.vn16SpUv_a299JVQYFcyqEx22Z2eknMUgaL2l2ilARU" />
+    <img width="64" src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" />
   </a>
   <a href="">
     <img width="64" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/>
